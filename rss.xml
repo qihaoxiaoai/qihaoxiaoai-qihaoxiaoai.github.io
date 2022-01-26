@@ -7,34 +7,34 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Hugo Theme MemE</title>
-        <link>https://example.com/</link>
+        <title>Racy He’s Notes</title>
+        <link>https://qihaoxiaoai.github.io/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
         <generator>Hugo 0.91.2 https://gohugo.io/</generator>
         
             <language>en</language>
         
         
-            <managingEditor>reuixiy@gmail.com (reuixiy)</managingEditor>
+            <managingEditor>qihaoxiaoai@gmail.com (racy)</managingEditor>
         
         
-            <webMaster>reuixiy@gmail.com (reuixiy)</webMaster>
+            <webMaster>qihaoxiaoai@gmail.com (racy)</webMaster>
         
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Tue, 25 Jan 2022 23:12:48 &#43;0800</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 23:03:52 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://qihaoxiaoai.github.io/rss.xml" />
         
         
             <item>
                 <title>Test_template</title>
-                <link>https://example.com/posts/test_template/</link>
-                <guid isPermaLink="true">https://example.com/posts/test_template/</guid>
+                <link>https://qihaoxiaoai.github.io/posts/test_template/</link>
+                <guid isPermaLink="true">https://qihaoxiaoai.github.io/posts/test_template/</guid>
                 <pubDate>Tue, 25 Jan 2022 15:07:21 &#43;0800</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>qihaoxiaoai@gmail.com (racy)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -50,7 +50,7 @@
                                 
                                 
                                 
-                                    <category domain="https://example.com/categories/test/">test</category>
+                                    <category domain="https://qihaoxiaoai.github.io/categories/test/">test</category>
                                 
                             
                         
@@ -60,13 +60,13 @@
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/blogs/">blogs</category>
+                                    <category domain="https://qihaoxiaoai.github.io/tags/blogs/">blogs</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/tags/">tags</category>
+                                    <category domain="https://qihaoxiaoai.github.io/tags/tags/">tags</category>
                                 
                             
                         
@@ -76,11 +76,11 @@
         
             <item>
                 <title>Hello World</title>
-                <link>https://example.com/posts/hello-world/</link>
-                <guid isPermaLink="true">https://example.com/posts/hello-world/</guid>
+                <link>https://qihaoxiaoai.github.io/posts/hello-world/</link>
+                <guid isPermaLink="true">https://qihaoxiaoai.github.io/posts/hello-world/</guid>
                 <pubDate>Tue, 25 Jan 2022 14:45:45 &#43;0800</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>qihaoxiaoai@gmail.com (racy)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
@@ -155,11 +155,11 @@ $$&lt;/p&gt;
         
             <item>
                 <title></title>
-                <link>https://example.com/posts/format_test/</link>
-                <guid isPermaLink="true">https://example.com/posts/format_test/</guid>
+                <link>https://qihaoxiaoai.github.io/posts/format_test/</link>
+                <guid isPermaLink="true">https://qihaoxiaoai.github.io/posts/format_test/</guid>
                 <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>qihaoxiaoai@gmail.com (racy)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 

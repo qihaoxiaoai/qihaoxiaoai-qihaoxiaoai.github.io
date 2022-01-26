@@ -2,30 +2,30 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-    <title type="text">Hugo Theme MemE</title>
+    <title type="text">Racy He’s Notes</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2022-01-25T23:12:48&#43;08:00</updated>
-    <id>https://example.com/</id>
-    <link rel="alternate" type="text/html" href="https://example.com/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
+    <updated>2022-01-26T23:03:52&#43;08:00</updated>
+    <id>https://qihaoxiaoai.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://qihaoxiaoai.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://qihaoxiaoai.github.io/atom.xml" />
     <author>
-            <name>reuixiy</name>
-            <uri>https://example.com/</uri>
+            <name>racy</name>
+            <uri>https://qihaoxiaoai.github.io/</uri>
             
-                <email>reuixiy@gmail.com</email>
+                <email>qihaoxiaoai@gmail.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.91.2">Hugo</generator>
         <entry>
             <title type="text">Test_template</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/test_template/" />
-            <id>https://example.com/posts/test_template/</id>
+            <link rel="alternate" type="text/html" href="https://qihaoxiaoai.github.io/posts/test_template/" />
+            <id>https://qihaoxiaoai.github.io/posts/test_template/</id>
             <updated>2022-01-25T15:18:34&#43;08:00</updated>
             <published>2022-01-25T15:07:21&#43;08:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>racy</name>
+                    <uri>https://qihaoxiaoai.github.io</uri>
+                    <email>qihaoxiaoai@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
             
@@ -41,7 +41,7 @@
                             
                             
                             
-                                <category scheme="https://example.com/categories/test/" term="test" label="test" />
+                                <category scheme="https://qihaoxiaoai.github.io/categories/test/" term="test" label="test" />
                             
                         
                     
@@ -51,13 +51,13 @@
                             
                             
                             
-                                <category scheme="https://example.com/tags/blogs/" term="blogs" label="blogs" />
+                                <category scheme="https://qihaoxiaoai.github.io/tags/blogs/" term="blogs" label="blogs" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/tags/tags/" term="tags" label="tags" />
+                                <category scheme="https://qihaoxiaoai.github.io/tags/tags/" term="tags" label="tags" />
                             
                         
                     
@@ -67,14 +67,14 @@
     
         <entry>
             <title type="text">Hello World</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/hello-world/" />
-            <id>https://example.com/posts/hello-world/</id>
+            <link rel="alternate" type="text/html" href="https://qihaoxiaoai.github.io/posts/hello-world/" />
+            <id>https://qihaoxiaoai.github.io/posts/hello-world/</id>
             <updated>2022-01-25T16:36:14&#43;08:00</updated>
             <published>2022-01-25T14:45:45&#43;08:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>racy</name>
+                    <uri>https://qihaoxiaoai.github.io</uri>
+                    <email>qihaoxiaoai@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">hello,this is racy
 标题1 标题2 标题3    1 2 2     1 2 2   2 2 2   2 2 2    1  print（‘format’）    你好哇，
@@ -151,14 +151,14 @@ $$&lt;/p&gt;
     
         <entry>
             <title type="text"></title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/format_test/" />
-            <id>https://example.com/posts/format_test/</id>
+            <link rel="alternate" type="text/html" href="https://qihaoxiaoai.github.io/posts/format_test/" />
+            <id>https://qihaoxiaoai.github.io/posts/format_test/</id>
             <updated>2022-01-25T16:34:24&#43;08:00</updated>
             <published>0001-01-01T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>racy</name>
+                    <uri>https://qihaoxiaoai.github.io</uri>
+                    <email>qihaoxiaoai@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">标题1 标题2 标题3    1 2 2     1 2 2   2 2 2   2 2 2    1  print（‘format’）    你好哇，
  $$ f(x)=\frac{P(x)}{Q(x)} $$
