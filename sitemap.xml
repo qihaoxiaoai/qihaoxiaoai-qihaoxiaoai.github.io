@@ -2,37 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://qihaoxiaoai.github.io/tags/blogs/</loc>
-    <lastmod>2022-01-25T15:18:34+08:00</lastmod>
-  </url><url>
-    <loc>https://qihaoxiaoai.github.io/categories/</loc>
-    <lastmod>2022-01-25T15:18:34+08:00</lastmod>
-  </url><url>
-    <loc>https://qihaoxiaoai.github.io/posts/</loc>
-    <lastmod>2022-01-25T16:36:14+08:00</lastmod>
-  </url><url>
-    <loc>https://qihaoxiaoai.github.io/</loc>
-    <lastmod>2022-01-25T16:41:56+08:00</lastmod>
-  </url><url>
-    <loc>https://qihaoxiaoai.github.io/tags/</loc>
-    <lastmod>2022-01-25T15:18:34+08:00</lastmod>
-  </url><url>
-    <loc>https://qihaoxiaoai.github.io/tags/tags/</loc>
-    <lastmod>2022-01-25T15:18:34+08:00</lastmod>
-  </url><url>
-    <loc>https://qihaoxiaoai.github.io/categories/test/</loc>
-    <lastmod>2022-01-25T15:18:34+08:00</lastmod>
-  </url><url>
-    <loc>https://qihaoxiaoai.github.io/posts/test_template/</loc>
-    <lastmod>2022-01-25T15:18:34+08:00</lastmod>
-  </url><url>
     <loc>https://qihaoxiaoai.github.io/about/</loc>
     <lastmod>2022-01-25T16:41:56+08:00</lastmod>
   </url><url>
-    <loc>https://qihaoxiaoai.github.io/posts/hello-world/</loc>
-    <lastmod>2022-01-25T16:36:14+08:00</lastmod>
+    <loc>https://qihaoxiaoai.github.io/</loc>
+    <lastmod>2022-03-01T23:39:56+08:00</lastmod>
   </url><url>
-    <loc>https://qihaoxiaoai.github.io/posts/format_test/</loc>
-    <lastmod>2022-01-25T16:34:24+08:00</lastmod>
+    <loc>https://qihaoxiaoai.github.io/posts/hello-world/</loc>
+    <lastmod>2022-03-01T23:39:56+08:00</lastmod>
+  </url><url>
+    <loc>https://qihaoxiaoai.github.io/posts/</loc>
+    <lastmod>2022-03-01T23:39:56+08:00</lastmod>
+  </url><url>
+    <loc>https://qihaoxiaoai.github.io/tags/blogs/</loc>
+    <lastmod>2022-03-01T23:39:13+08:00</lastmod>
+  </url><url>
+    <loc>https://qihaoxiaoai.github.io/categories/</loc>
+    <lastmod>2022-03-01T23:39:13+08:00</lastmod>
+  </url><url>
+    <loc>https://qihaoxiaoai.github.io/tags/</loc>
+    <lastmod>2022-03-01T23:39:13+08:00</lastmod>
+  </url><url>
+    <loc>https://qihaoxiaoai.github.io/tags/tags/</loc>
+    <lastmod>2022-03-01T23:39:13+08:00</lastmod>
+  </url><url>
+    <loc>https://qihaoxiaoai.github.io/categories/test/</loc>
+    <lastmod>2022-03-01T23:39:13+08:00</lastmod>
+  </url><url>
+    <loc>https://qihaoxiaoai.github.io/posts/test_template/</loc>
+    <lastmod>2022-03-01T23:39:13+08:00</lastmod>
   </url>
 </urlset>
