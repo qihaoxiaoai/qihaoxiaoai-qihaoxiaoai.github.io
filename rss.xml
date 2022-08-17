@@ -23,73 +23,10 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Wed, 17 Aug 2022 16:31:45 &#43;0800</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 16:41:10 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://qihaoxiaoai.github.io/rss.xml" />
         
-        
-            <item>
-                <title>2022·Birthday</title>
-                <link>https://qihaoxiaoai.github.io/posts/20220323-birthday/</link>
-                <guid isPermaLink="true">https://qihaoxiaoai.github.io/posts/20220323-birthday/</guid>
-                <pubDate>Wed, 23 Mar 2022 00:14:06 &#43;0800</pubDate>
-                
-                    <author>qihaoxiaoai@gmail.com (racy)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                
-                    <description>&lt;h4 id=&#34;进展与计划&#34;&gt;进展与计划&lt;/h4&gt;
-&lt;p&gt;今天解决了远程ssh免密码以及jupyter登中心与合肥超算的问题，这样之后的python，julia以及一些基于vscode的程序块开发速度就会大大提升。但是，问题还是有的，目前主要跟着kw师兄做一些deepmd的工作，（哈哈今天组里的deepmd势函数开发小组正式成立，一定会向铠玮师兄学习更多的东西）前期一直在被推着走abc和enhanced sampling的事情，自己的热情在但是基础太差了，差不多煎熬了半年，哪怕也是有一些收获的。什么问题？&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;缺乏对于具体的科学问题的切入。这个问题是对于上面两个课题都存在的，尤其是后者。对于deepmd的工作手把手做着做着就会发现一些问题，有很多可以直接避免的低级问题在自己参加了培训班，询问师兄之后都可以解决，这真的非常感谢师兄，感谢！后者的话，其实思路也非常清晰，直接做增强采样，专注于采样问题，稀有时间。但后面具体做了才知道，你要做一个不挑体系的方法或者是技术出来是非常非常难的（从严格的科学，技术贡献上面来说），但是能去挑一个体系，去做这种增强采样方法，又会感觉有种一叶障目的感觉，越做越细，问题越来越多，导致后面都有点茫然了。这也是我后面去和铠玮师兄做deepmd的原因。我不想做采样吗？非常想，但是得在积累一些，现阶段的话就是在做事情的时候心里一直要去思考rare event和free energy calculation的问题。进一步，对于前者，问题呢，感觉还是这个势函数训出来可以解决什么样的silica-water system的问题&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;coding的水平。自己的能力进展非常慢，很大程度上是因为懒造成的，为什么懒？心里没有一条主干线。这个主干线说去拥有吧，也非常简单。一直要提醒自己要有化繁为简的能力，要有分辨轻重缓急的能力。&lt;/p&gt;
-&lt;p&gt;解决这一些问题？心里有一些想法，慢慢再写吧今天很晚了&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&#34;生日&#34;&gt;生日&lt;/h4&gt;
-&lt;p&gt;今天是农历的二月廿，第一次知道廿这个词还是听外婆说的。回头一想外婆走了快有八年了。那时候还在衢州念书，衢州有一个地方叫做廿里，最近那里的疫情好像非常严重，真的非常严重吗？心不安，就是严重。&lt;/p&gt;
-&lt;p&gt;其实是姐姐给我发红包之后我才知道的。好像从小，我都不会期待红包这种东西，所以今天收了还非常不好意思。姐姐说是妈妈告诉她我今天生日的。妈妈，一直是最爱我的人，一直都是。所以我要好好爱自己啊～感谢&lt;/p&gt;
-&lt;p&gt;也是今天生日，让我去想了这几天发生的事情，坠机，车祸。每想到死别，生离好像就那么的不真实，那么的不懂事。珍惜身边家人，师长，同学。尊重每一个人，因为每个人都是非常可贵的，不尊重别人就是不尊重自己。&lt;/p&gt;
-&lt;p&gt;晚安～&lt;/p&gt;
-&lt;p&gt;220322 北京·中关村&lt;/p&gt;
-</description>
-                
-                
-                
-                
-                
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://qihaoxiaoai.github.io/categories/test/">test</category>
-                                
-                            
-                        
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://qihaoxiaoai.github.io/tags/blogs/">blogs</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://qihaoxiaoai.github.io/tags/tags/">tags</category>
-                                
-                            
-                        
-                    
-                
-            </item>
         
             <item>
                 <title>Hello World</title>
