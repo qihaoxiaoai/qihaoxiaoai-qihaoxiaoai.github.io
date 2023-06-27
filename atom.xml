@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Jianxin He’s Blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-06-27T13:22:05&#43;08:00</updated>
+    <updated>2023-06-27T23:42:42&#43;08:00</updated>
     <id>https://qihaoxiaoai.github.io/</id>
     <link rel="alternate" type="text/html" href="https://qihaoxiaoai.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://qihaoxiaoai.github.io/atom.xml" />
@@ -17,10 +17,50 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.114.1">Hugo</generator>
         <entry>
+            <title type="text">少年易老学难成, 一寸光阴不可轻</title>
+            <link rel="alternate" type="text/html" href="https://qihaoxiaoai.github.io/posts/2023-summer2/" />
+            <id>https://qihaoxiaoai.github.io/posts/2023-summer2/</id>
+            <updated>2023-06-27T23:41:19&#43;08:00</updated>
+            <published>2023-06-23T18:45:45&#43;08:00</published>
+            <author>
+                    <name>racy</name>
+                    <uri>https://qihaoxiaoai.github.io</uri>
+                    <email>qihaoxiaoai@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">这是一首朱熹的小诗，最近很多朋友都参加了毕业典礼。之前，在sdc的时候有很多熟悉的面孔，也有自己很喜欢的人啊。后来来到NCNST变得越来越忙。以前常常和老余一起聊天，后来发现她好像不喜欢和我说话，也有可能是自己觉得自己无聊吧。一直处在自我怀疑中，后面我们就没有联系了。
+有一天，她给我打电话，我以为是过去的一个人，说了好多。
+后来啊，发现是老余。
+啊，原来她一直会在意啊。
+有时候我觉得她，并不会很在意我们的关系，但有时候又觉得她在意。原来自己的是对的啊。可是自己在她不冷不热的回复中，一直觉得可能就那样啦。后来就放弃了。其实，我一直没有从以前关于感情的挫折里面走出来，自己喜欢的人怎么会喜欢自己呢。什么也做不好。现在想想，还是要做一个勇敢且乐观的人啊。
+有时候很想说很多。因为，她就是像阳光一样的人啊，在破碎的凌晨中穿过裂缝的阳光。是一个，遇到她的时候我才又开始慢慢学会去做一个温暖的人，后来，失去的时候又找回了自己果决的一面。关于她，所有负面的情绪都是狭隘的自己关于自己，而她留下的一直是那么美好和阳光。尊重他人，乐于分享。
+也许，她还在一直失眠，一直抑郁。但这并不说明她不是一个，万般阳光的人。所以我希望她一切都好啊，我也会向祝福她一样祝福自己。加油呀，小何~</summary>
+            
+                <content type="html">&lt;p&gt;这是一首朱熹的小诗，最近很多朋友都参加了毕业典礼。之前，在sdc的时候有很多熟悉的面孔，也有自己很喜欢的人啊。后来来到NCNST变得越来越忙。以前常常和老余一起聊天，后来发现她好像不喜欢和我说话，也有可能是自己觉得自己无聊吧。一直处在自我怀疑中，后面我们就没有联系了。&lt;br&gt;
+有一天，她给我打电话，我以为是过去的一个人，说了好多。&lt;br&gt;
+后来啊，发现是老余。&lt;br&gt;
+啊，原来她一直会在意啊。&lt;br&gt;
+  有时候我觉得她，并不会很在意我们的关系，但有时候又觉得她在意。原来自己的是对的啊。可是自己在她不冷不热的回复中，一直觉得可能就那样啦。后来就放弃了。其实，我一直没有从以前关于感情的挫折里面走出来，自己喜欢的人怎么会喜欢自己呢。什么也做不好。现在想想，还是要做一个勇敢且乐观的人啊。&lt;br&gt;
+  有时候很想说很多。因为，她就是像阳光一样的人啊，在破碎的凌晨中穿过裂缝的阳光。是一个，遇到她的时候我才又开始慢慢学会去做一个温暖的人，后来，失去的时候又找回了自己果决的一面。关于她，所有负面的情绪都是狭隘的自己关于自己，而她留下的一直是那么美好和阳光。尊重他人，乐于分享。&lt;br&gt;
+  也许，她还在一直失眠，一直抑郁。但这并不说明她不是一个，万般阳光的人。所以我希望她一切都好啊，我也会向祝福她一样祝福自己。加油呀，小何~&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">2023年毕业季</title>
             <link rel="alternate" type="text/html" href="https://qihaoxiaoai.github.io/posts/2023-summer/" />
             <id>https://qihaoxiaoai.github.io/posts/2023-summer/</id>
-            <updated>2023-06-27T12:17:08&#43;08:00</updated>
+            <updated>2023-06-27T23:27:52&#43;08:00</updated>
             <published>2023-06-23T14:45:45&#43;08:00</published>
             <author>
                     <name>racy</name>
