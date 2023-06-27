@@ -2,9 +2,9 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-    <title type="text">Racy He’s Notes</title>
+    <title type="text">Jianxin He’s Blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2022-08-17T16:41:10&#43;08:00</updated>
+    <updated>2023-06-27T13:22:05&#43;08:00</updated>
     <id>https://qihaoxiaoai.github.io/</id>
     <link rel="alternate" type="text/html" href="https://qihaoxiaoai.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://qihaoxiaoai.github.io/atom.xml" />
@@ -15,7 +15,35 @@
                 <email>qihaoxiaoai@gmail.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
-    <generator uri="https://gohugo.io/" version="0.91.2">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.114.1">Hugo</generator>
+        <entry>
+            <title type="text">2023年毕业季</title>
+            <link rel="alternate" type="text/html" href="https://qihaoxiaoai.github.io/posts/2023-summer/" />
+            <id>https://qihaoxiaoai.github.io/posts/2023-summer/</id>
+            <updated>2023-06-27T12:17:08&#43;08:00</updated>
+            <published>2023-06-23T14:45:45&#43;08:00</published>
+            <author>
+                    <name>racy</name>
+                    <uri>https://qihaoxiaoai.github.io</uri>
+                    <email>qihaoxiaoai@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">hello</summary>
+            
+                <content type="html">&lt;p&gt;hello&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Hello World</title>
             <link rel="alternate" type="text/html" href="https://qihaoxiaoai.github.io/posts/hello-world/" />
@@ -28,8 +56,11 @@
                     <email>qihaoxiaoai@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">hello,this is racy
-标题1 标题2 标题3    1 2 2     1 2 2   2 2 2   2 2 2    1  print（‘format’）    你好哇，
- $$ f(x)=\frac{P(x)}{Q(x)} $$</summary>
+标题1 标题2 标题3 1 2 2 1 2 2 2 2 2 2 2 2 1 print（‘format’） 你好哇，
+$$ f(x)=\frac{P(x)}{Q(x)} $$
+你
+好
+哇</summary>
             
                 <content type="html">&lt;p&gt;hello,this is racy&lt;/p&gt;
 &lt;h1 id=&#34;标题1&#34;&gt;标题1&lt;/h1&gt;
@@ -66,8 +97,8 @@
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;（‘&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;format&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;’）&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;（‘&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;format&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;’）&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;blockquote&gt;
 &lt;p&gt;你好哇，&lt;/p&gt;
