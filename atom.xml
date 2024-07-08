@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">R.H.’s Notes</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2024-07-07T01:01:21-05:00</updated>
+    <updated>2024-07-08T17:12:27-05:00</updated>
     <id>https://qihaoxiaoai.github.io/</id>
     <link rel="alternate" type="text/html" href="https://qihaoxiaoai.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://qihaoxiaoai.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">Hello Photographer!</title>
             <link rel="alternate" type="text/html" href="https://qihaoxiaoai.github.io/posts/hello-world_2/" />
             <id>https://qihaoxiaoai.github.io/posts/hello-world_2/</id>
-            <updated>2024-07-07T01:00:53-05:00</updated>
+            <updated>2024-07-08T17:12:18-05:00</updated>
             <published>2024-07-04T14:45:45&#43;08:00</published>
             <author>
                     <name>racy</name>
@@ -93,7 +93,7 @@ $$&lt;/p&gt;
 &lt;h3 id=&#34;this-is-a-test-figure1&#34;&gt;This is a test Figure1.&lt;/h3&gt;
 &lt;p&gt;这是一张照片
 This is a figure &lt;br&gt;
-&lt;img src=&#34;https://uc4428f0f3273ff9c04f3bee5c0b.dl.dropboxusercontent.com/cd/0/inline/CWM2BHbcX_rWdWZDCvinfP6mcjDp5EamRldROyX8Udlv7FzWmfSd9V5kYsjLr9SbbIU-f6uhbvcPjPZgBMOc5CsLH0vwJ62yPBA7QxTSAXoNXzxrz0YVJi-Q0DMDINA1t-BagyrXvFOEN_1A7QsLvD8Y/file#&#34; alt=&#34;Figure1&#34; title=&#34;Figure1&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://www.dropbox.com/scl/fi/60b274ozuqebp6m45anco/50-22.jpg?rlkey=vz43txmogonn6ywi13j88w1eb&amp;st=147cd4xh&amp;raw=1&#34; alt=&#34;Figure1&#34; title=&#34;Figure1&#34;&gt;&lt;/p&gt;
 </content>
             
             
